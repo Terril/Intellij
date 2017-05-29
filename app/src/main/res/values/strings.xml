@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">IntelliJ</string>
+    <string name="ok">Ok</string>
+    <string name="edit_item">Edit Item</string>
+</resources>
